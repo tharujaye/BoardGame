@@ -1,0 +1,8 @@
+Your details,
+		Total moves : 38
+		Total black hole hits : 5 
+		you won! (:
+Computer details
+		Total moves : 22
+		Total black hole hits : 2
+		Computer loos the game
